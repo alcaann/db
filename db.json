@@ -17,7 +17,20 @@
     "imagen": "https://img.pccomponentes.com/articles/22/225230/a8.jpg",
     "stock": true
 
-  }],
+  }],"tecnologias":[
+  {
+    "id": "1",
+    "text": "eléctricos"
+  },
+  {
+    "id": "2",
+    "text": "híbridos"
+  },
+  {
+    "id": "3",
+    "text": "híbridos enchufables"
+  }
+],
  "fabricantes":[
   {
     "id": "1",
