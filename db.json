@@ -27,7 +27,7 @@
     { "id": "6", "text": null, "nombre": "C-Zero", "imagen": "img\/Citroen_C-ZERO.jpg", "precio": "26190", "fabricante": "3", "tecnologia": "1" },
     { "id": "7", "text": null, "nombre": "Berlingo Electric", "imagen": "img\/Citroen_Berlingo.jpg", "precio": "24900", "fabricante": "3", "tecnologia": "1" },
     { "id": "8", "text": null, "nombre": "Mondeo HEV", "imagen": "img\/Ford_MondeoHEV.jpg", "precio": "34500", "fabricante": "4", "tecnologia": "2" },
-    { "id": "9", "text": null, "nombre": "IONIQ", "imagen": "img\/Hyundai_IONIQ_Hybrid.jpg", "precio": "21375", "fabricante": "6", "tecnologia": "2" }, 
+    /*{ "id": "9", "text": null, "nombre": "IONIQ", "imagen": "img\/Hyundai_IONIQ_Hybrid.jpg", "precio": "21375", "fabricante": "6", "tecnologia": "2" }, 
     { "id": "10", "text": null, "nombre": "IONIQ", "imagen": "img\/Hyundai_IONIQ_Electrico.jpg", "precio": "29725", "fabricante": "6", "tecnologia": "1" },
     { "id": "11", "text": null, "nombre": "IONIQ PHEV", "imagen": "img\/Hyundai_IONIQ_PHEV.jpg", "precio": "27975", "fabricante": "6", "tecnologia": "3" },
     { "id": "12", "text": null, "nombre": "i-Pace", "imagen": "img\/Jaguar-i-Pace.jpg", "precio": "79100", "fabricante": "7", "tecnologia": "1" },
@@ -69,5 +69,6 @@
     { "id": "49", "text": null, "nombre": "S90 T8 Twin Engine", "imagen": "img\/Volvo_S90_TS_T8_Twin.jpg", "precio": "72150", "fabricante": "19", "tecnologia": "3" },
     { "id": "50", "text": null, "nombre": "e-Up!", "imagen": "img\/VW_e-Up.jpg", "precio": "27720", "fabricante": "20", "tecnologia": "1" },
     { "id": "51", "text": null, "nombre": "e-Golf", "imagen": "img\/VW_e-Golf.jpg", "precio": "36850", "fabricante": "20", "tecnologia": "1" },
-    { "id": "52", "text": null, "nombre": "Golf GTE", "imagen": "img\/VW_Golf_GTE.jpg", "precio": "40090", "fabricante": "20", "tecnologia": "3" }]
+    { "id": "52", "text": null, "nombre": "Golf GTE", "imagen": "img\/VW_Golf_GTE.jpg", "precio": "40090", "fabricante": "20", "tecnologia": "3" }
+    */]
 }
