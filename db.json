@@ -18,6 +18,88 @@
     "stock": true
 
   }],
+ "fabricantes":[
+  {
+    "id": "1",
+    "text": "Audi"
+  },
+  {
+    "id": "2",
+    "text": "BMW"
+  },
+  {
+    "id": "3",
+    "text": "Citroën"
+  },
+  {
+    "id": "4",
+    "text": "Ford"
+  },
+  {
+    "id": "5",
+    "text": "Honda"
+  },
+  {
+    "id": "6",
+    "text": "Hyundai"
+  },
+  {
+    "id": "7",
+    "text": "Jaguar"
+  },
+  {
+    "id": "8",
+    "text": "Kia"
+  },
+  {
+    "id": "9",
+    "text": "Lexus"
+  },
+  {
+    "id": "10",
+    "text": "Mercedes"
+  },
+  {
+    "id": "11",
+    "text": "Mitsubishi"
+  },
+  {
+    "id": "12",
+    "text": "Nissan"
+  },
+  {
+    "id": "13",
+    "text": "Peugeot"
+  },
+  {
+    "id": "14",
+    "text": "Porsche"
+  },
+  {
+    "id": "15",
+    "text": "Renault"
+  },
+  {
+    "id": "16",
+    "text": "Suzuki"
+  },
+  {
+    "id": "17",
+    "text": "Tesla"
+  },
+  {
+    "id": "18",
+    "text": "Toyota"
+  },
+  {
+    "id": "19",
+    "text": "Volvo"
+  },
+  {
+    "id": "20",
+    "text": "Volkswagen"
+  }
+],
 "coches": [
     { "id": "1", "text": null, "nombre": "A3 Sportback e-tron", "imagen": "img\/Audi_A3_Sportback_e-tron.jpg", "precio": "38750", "fabricante": "1", "tecnologia": "3" }, 
     { "id": "2", "text": null, "nombre": "Q7 e-tron quattro", "imagen": "img\/Audi_Q7_e-tron_quattro.jpg", "precio": "83970", "fabricante": "1", "tecnologia": "3" },
